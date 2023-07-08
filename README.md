@@ -25,6 +25,6 @@
 青龙面板，```订阅管理``` 页， 右上角 ```新建订阅```，将命令粘贴到```名称```栏，然后添加 ```名称``` 和 ```定时规则```。
 ```
 名称：自用
-命令：ql repo https://github.com/milletbig/Self-use-ql-scripts.git "" "" "" "" py　js
+命令：ql repo https://github.com/milletbig/Self-use-ql-scripts.git "" "" "" "" py js
 定时规则：0 21 * * *
 ```
