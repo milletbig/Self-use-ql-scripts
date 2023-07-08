@@ -19,11 +19,11 @@
   - [x] xc: 喜茶小程序
 
 ## 青龙订阅任务
+
+
+青龙面板，```订阅管理``` 页， 右上角 ```新建订阅```，将命令粘贴到```名称```栏，然后添加 ```定时规则```。
 ```
 名称：自用
-类型：公开仓库
-链接：https://github.com/milletbig/Self-use-ql-scripts.git
-定时类型：crontab
+命令：ql repo https://github.com/milletbig/Self-use-ql-scripts.git "" "" "" "" py　js
 定时规则：0 21 * * *
-文件后缀：py js
 ```
