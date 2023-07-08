@@ -16,6 +16,8 @@
   - [x] mxbc: 蜜雪冰城小程序(https://github.com/AutMan7/AM/blob/main/mxbc.js)
   - [x] sfsyV2: 顺丰速运(https://github.com/leafTheFish/DeathNote/blob/main/sfsyV2.js)
   - [x] xc: 喜茶小程序(https://github.com/AutMan7/AM/blob/main/xc.js)
+  - [x] naixue: 奈雪点单小程序(https://github.com/leafTheFish/DeathNote/blob/main/naixue.js)
+  - [x] txspfl: 腾讯视频-福利中心(https://github.com/leafTheFish/DeathNote/blob/main/txspfl.js)
 
 ## 青龙订阅任务
 
