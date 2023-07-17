@@ -18,6 +18,7 @@
   - [x] xc: 喜茶小程序(https://github.com/AutMan7/AM/blob/main/xc.js)
   - [x] naixue: 奈雪点单小程序(https://github.com/leafTheFish/DeathNote/blob/main/naixue.js)
   - [x] txspfl: 腾讯视频-福利中心(https://github.com/leafTheFish/DeathNote/blob/main/txspfl.js)
+  - [x] ysfqd:云闪付签到（https://github.com/smallfawn/QLScriptPublic/blob/main/ysfqd.js）
 
 ## 青龙订阅任务
 
