@@ -6,19 +6,13 @@
 
 - [x] 目前有
 
-  - [x] chinaUnicom:中国联通(https://github.com/leafTheFish/DeathNote/blob/main/chinaUnicom.js)
-  - [] ddgy: 滴滴果园(https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ddgy.js)
+  -  ddgy: 滴滴果园(https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ddgy.js)
   - [x] dddc: 滴滴签到打卡领券周末5折、福利金领取、瓜瓜乐活动参加(https://github.com/linbailo/zyqinglong/blob/main/dddc.py)
-  - [x] meituan: 美团领劵大额和一些领钱任务(https://github.com/leafTheFish/DeathNote/blob/main/meituanV3.js)
-  - [] elm: 饿了么领劵大额和一些领钱任务(https://github.com/leafTheFish/DeathNote/blob/main/elmV3.js)
   - [x] hdl：海底捞小程序(https://github.com/LinYuanovo/scripts/blob/main/hdl.js)
-  - [] hezj: 海尔智家(https://github.com/smallfawn/QLScriptPublic/blob/main/hezj.js)
-  - [] iqiyi: 爱奇艺(https://github.com/AutMan7/AM/blob/main/iqiyi.py)
+  -  hezj: 海尔智家(https://github.com/smallfawn/QLScriptPublic/blob/main/hezj.js)
+  -  iqiyi: 爱奇艺(https://github.com/AutMan7/AM/blob/main/iqiyi.py)
   - [x] mxbc: 蜜雪冰城小程序(https://github.com/AutMan7/AM/blob/main/mxbc.js)
-  - [x] sfsyV2: 顺丰速运(https://github.com/leafTheFish/DeathNote/blob/main/sfsyV2.js)
-  - [] xc: 喜茶小程序(https://github.com/AutMan7/AM/blob/main/xc.js)
-  - [x] naixue: 奈雪点单小程序(https://github.com/leafTheFish/DeathNote/blob/main/naixue.js)
-  - [] txspfl: 腾讯视频-福利中心(https://github.com/leafTheFish/DeathNote/blob/main/txspfl.js)
+  -  xc: 喜茶小程序(https://github.com/AutMan7/AM/blob/main/xc.js)
   - [x] ysfqd:云闪付签到（https://github.com/smallfawn/QLScriptPublic/blob/main/ysfqd.js）
 
 ## 青龙订阅任务
