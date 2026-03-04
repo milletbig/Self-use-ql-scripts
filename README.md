@@ -6,14 +6,10 @@
 
 - [x] 目前有
 
-  -  ddgy: 滴滴果园(https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ddgy.js)
   - [x] dddc: 滴滴签到打卡领券周末5折、福利金领取、瓜瓜乐活动参加(https://github.com/linbailo/zyqinglong/blob/main/dddc.py)
   - [x] hdl：海底捞小程序(https://github.com/LinYuanovo/scripts/blob/main/hdl.js)
-  -  hezj: 海尔智家(https://github.com/smallfawn/QLScriptPublic/blob/main/hezj.js)
-  -  iqiyi: 爱奇艺(https://github.com/AutMan7/AM/blob/main/iqiyi.py)
   - [x] mxbc: 蜜雪冰城小程序(https://github.com/AutMan7/AM/blob/main/mxbc.js)
   -  xc: 喜茶小程序(https://github.com/AutMan7/AM/blob/main/xc.js)
-  - [x] ysfqd:云闪付签到（https://github.com/smallfawn/QLScriptPublic/blob/main/ysfqd.js）
 
 ## 青龙订阅任务
 
